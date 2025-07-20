@@ -48,7 +48,7 @@ The entire interface was planned and prototyped in **Figma** to ensure:
 | Home | Categories | Booking |
 |------|------------|---------|
 | ![Home]![WhatsApp Image 2025-07-20 at 23 52 38_a224ee1c](https://github.com/user-attachments/assets/e2aa48c1-2a2a-47cd-9d78-fea6e30c454d)
- | ![Categories](assets/screenshots/categories.png) | ![Booking](assets/screenshots/booking.png) |
+ | ![Categories]![Image](https://github.com/user-attachments/assets/84749bee-df88-4b67-b23e-4bb2a82ff8b7) | ![Booking](assets/screenshots/booking.png) |
 
 > Screenshots should be added to the `assets/screenshots/` directory in your repo. If you're using images like "WhatsApp Image 2025-07-03...", rename and place them here.
 
