@@ -8,7 +8,10 @@
 
 🎥 Click below to watch a quick demo of Sarvatra in action:
 
-   
+
+
+https://github.com/user-attachments/assets/efd65d1a-f7b1-4dde-8455-eb8b3a002373
+
 
 https://github.com/user-attachments/assets/75d9a686-b94f-40f2-bb30-0a945868d15f
 
