@@ -54,8 +54,7 @@ The entire interface was planned and prototyped in **Figma** to ensure:
 
 | Home | Categories | Booking |
 |------|------------|---------|
-| ![Home]![WhatsApp Image 2025-07-20 at 23 52 38_a224ee1c](https://github.com/user-attachments/assets/e2aa48c1-2a2a-47cd-9d78-fea6e30c454d)
- | ![Categories]![Image](https://github.com/user-attachments/assets/84749bee-df88-4b67-b23e-4bb2a82ff8b7) | ![Booking]([assets/screenshots/booking.png](https://github.com/Abhinavsinghgour/Sarvatra-App-Android-On-Demand-Services/blob/6be649dd73432097304f0579d400a91a20509d86/WhatsApp%20Image%202025-07-20%20at%2023.52.39_deb7fd78.jpg)) |
+| ![Booking]([[assets/screenshots/booking.png](https://github.com/Abhinavsinghgour/Sarvatra-App-Android-On-Demand-Services/blob/6be649dd73432097304f0579d400a91a20509d86/WhatsApp%20Image%202025-07-20%20at%2023.52.39_deb7fd78.jpg)](https://github.com/Abhinavsinghgour/Sarvatra-App-Android-On-Demand-Services/blob/Main/WhatsApp%20Image%202025-07-20%20at%2023.52.39_deb7fd78.jpg?raw=true)) |
 
 > Screenshots should be added to the `assets/screenshots/` directory in your repo. If you're using images like "WhatsApp Image 2025-07-03...", rename and place them here.
 
@@ -94,7 +93,7 @@ Found a bug or have a feature request?
 ## 📬 Contact
 
 Made with ❤️ by **[Abhinav Singh](https://github.com/Abhinavsinghgour)**  
-📧 Email: [abhinavsinghgour@gmail.com](mailto:abhinavsinghgour@gmail.com)
+📧 Email: [abhinavsinghgour@gmail.com](mailto: goursinghabhi004@gmail.com)
 
 ---
 
