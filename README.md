@@ -8,7 +8,7 @@
 
 🎥 Click below to watch a quick demo of Sarvatra in action:
 
-[![Watch Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+   
 
 > Upload your demo video to YouTube and replace `YOUR_VIDEO_ID` with the actual video ID.
 
@@ -47,7 +47,8 @@ The entire interface was planned and prototyped in **Figma** to ensure:
 
 | Home | Categories | Booking |
 |------|------------|---------|
-| ![Home](assets/screenshots/home.png) | ![Categories](assets/screenshots/categories.png) | ![Booking](assets/screenshots/booking.png) |
+| ![Home]![WhatsApp Image 2025-07-20 at 23 52 38_a224ee1c](https://github.com/user-attachments/assets/e2aa48c1-2a2a-47cd-9d78-fea6e30c454d)
+ | ![Categories](assets/screenshots/categories.png) | ![Booking](assets/screenshots/booking.png) |
 
 > Screenshots should be added to the `assets/screenshots/` directory in your repo. If you're using images like "WhatsApp Image 2025-07-03...", rename and place them here.
 
