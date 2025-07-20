@@ -43,15 +43,6 @@ The entire interface was planned and prototyped in **Figma** to ensure:
 
 ---
 
-## 📸 Screenshots
-
-| Home | Categories | Booking |
-|------|------------|---------|
-![Booking](https://github.com/Abhinavsinghgour/Sarvatra-App-Android-On-Demand-Services/blob/5907f52800dd98e3acd3a2e4bb367c720086de50/WhatsApp%20Image%202025-07-20%20at%2023.52.39_deb7fd78.jpg)
-
-
----
-
 ## 📂 Repository Info
 
 📌 GitHub Repository:  
