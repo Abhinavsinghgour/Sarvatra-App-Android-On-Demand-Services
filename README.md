@@ -9,8 +9,7 @@
 🎥 Click below to watch a quick demo of Sarvatra in action:
 
 
-
-https://github.com/user-attachments/assets/efd65d1a-f7b1-4dde-8455-eb8b3a002373
+   https://github.com/user-attachments/assets/efd65d1a-f7b1-4dde-8455-eb8b3a002373
 
 
 https://github.com/user-attachments/assets/75d9a686-b94f-40f2-bb30-0a945868d15f
@@ -54,7 +53,7 @@ The entire interface was planned and prototyped in **Figma** to ensure:
 
 | Home | Categories | Booking |
 |------|------------|---------|
-| ![Booking]([[assets/screenshots/booking.png](https://github.com/Abhinavsinghgour/Sarvatra-App-Android-On-Demand-Services/blob/6be649dd73432097304f0579d400a91a20509d86/WhatsApp%20Image%202025-07-20%20at%2023.52.39_deb7fd78.jpg)](https://github.com/Abhinavsinghgour/Sarvatra-App-Android-On-Demand-Services/blob/Main/WhatsApp%20Image%202025-07-20%20at%2023.52.39_deb7fd78.jpg?raw=true)) |
+![Booking]([[assets/screenshots/booking.png](https://github.com/Abhinavsinghgour/Sarvatra-App-Android-On-Demand-Services/blob/6be649dd73432097304f0579d400a91a20509d86/WhatsApp%20Image%202025-07-20%20at%2023.52.39_deb7fd78.jpg)](https://github.com/Abhinavsinghgour/Sarvatra-App-Android-On-Demand-Services/blob/Main/WhatsApp%20Image%202025-07-20%20at%2023.52.39_deb7fd78.jpg?raw=true)) |
 
 > Screenshots should be added to the `assets/screenshots/` directory in your repo. If you're using images like "WhatsApp Image 2025-07-03...", rename and place them here.
 
